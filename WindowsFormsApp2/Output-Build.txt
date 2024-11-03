@@ -1,0 +1,8 @@
+﻿Build started at 12:01 ص...
+1>------ Build started: Project: WindowsFormsApp2, Configuration: Debug Any CPU ------
+1>C:\Users\20128\Source\Repos\WindowsFormsApp2\Form1.cs(26,16,26,22): warning CS0414: The field 'Form1.memory' is assigned but its value is never used
+1>C:\Users\20128\Source\Repos\WindowsFormsApp2\Form1.cs(24,16,24,21): warning CS0414: The field 'Form1.value' is assigned but its value is never used
+1>C:\Users\20128\Source\Repos\WindowsFormsApp2\Form1.cs(25,14,25,30): warning CS0414: The field 'Form1.operationPressed' is assigned but its value is never used
+1>  WindowsFormsApp2 -> C:\Users\20128\Source\Repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 12:01 ص and took 01.143 seconds ==========
